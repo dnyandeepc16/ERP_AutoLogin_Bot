@@ -3,8 +3,9 @@
 ```
 By @Dnyandeep Chavan
 ```
-
-
+<div align="center">
+<img src=src/cat.gif width="300">
+</div>
 
 ## A few steps to follow(One time process):
 
