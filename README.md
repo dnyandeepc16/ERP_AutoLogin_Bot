@@ -1,8 +1,5 @@
 # ERP_AutoLogin_Bot
 
-```
-By @Dnyandeep Chavan
-```
 <div align="center">
 <img src=src/cat.gif width="300">
 </div>
@@ -24,3 +21,6 @@ Profile Path: `C:\Users\Dnyandeep\AppData\Local\Google\Chrome\User Data\Default`
 
 #### AND IT'S DONE!!
 
+```
+@Dnyandeep Chavan
+```
